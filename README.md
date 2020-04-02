@@ -9,3 +9,5 @@
 [Polynomial Regression](https://github.com/ShauryaShettigar/machine_learning/blob/master/mlearning_p_regression.py)
 
 [Multiple Regression](https://github.com/ShauryaShettigar/machine_learning/blob/master/mlearning_m_regression.py)
+
+[Support Vector Regression(SVR)](https://github.com/ShauryaShettigar/machine_learning/blob/master/mlearning_SVR.py)
