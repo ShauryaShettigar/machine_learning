@@ -1,5 +1,7 @@
 # Machine Learning Codes
 
-## Usage
+##  Data Preprocessing
 
-- abc.py
+[Data Preprocessing](https://github.com/ShauryaShettigar/machine_learning/blob/master/mlearning_preprocessing.py)
+
+[Simple Linear Regression](https://github.com/ShauryaShettigar/machine_learning/blob/master/mlearning_s_regression.py)
