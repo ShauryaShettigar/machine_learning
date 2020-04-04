@@ -10,7 +10,7 @@ dataset = pd.read_csv('Data.csv')
 X = dataset.iloc[:, :-1].values
 y = dataset.iloc[:, 3].values
 
-# Splitting the dataset into the Training set and Test set
+#Missing values
 from sklearn.impute import SimpleImputer
 impute = SimpleImputer(missing_values=np.nan, strategy='mean')
 
